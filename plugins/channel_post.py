@@ -44,7 +44,7 @@ async def channel_post(client: Client, message: Message):
         #   chat_id=client.db_channel.id, disable_notification=True
         #)
         post_message = await message.copy(
-            chat_id=client.db_channel.id, caption="∆ Uploader By ➤ <a href='https://t.me/Central_Dark_World'>Click here</a>\n∆ Channel telegram ➤ <a href='https://t.me/Hen_nime'>Click here</a>\n∆ Twitter ➤ <a href='https://twitter.com/Ahegao_Maxxx?s=09'>Click here</a>\n\nDon't forget to share (っ'-')╮=͟͟͞͞💌"
+            chat_id=client.db_channel.id, caption="∆ Asupan Doodstream ➤ <a href='https://t.me/bokep_memek_jilbab_hijab_viral'>Click here</a>\n∆ Asupan telegram ➤ <a href='https://t.me/sukjep69'>Click here</a>\n∆ Twitter Asupan ➤ <a href='https://twitter.com/sukjep69?s=09'>Click here</a>\n\nDon't forget to share (っ'-')╮=͟͟͞͞💌"
         )
     except FloodWait as e:
         await asyncio.sleep(e.x)
@@ -52,7 +52,7 @@ async def channel_post(client: Client, message: Message):
         #   chat_id=client.db_channel.id, disable_notification=True
         #)
         post_message = await message.copy(
-            chat_id=client.db_channel.id, caption="∆ Uploader By ➤ <a href='https://t.me/Central_Dark_World'>Click here</a>\n∆ Channel telegram ➤ <a href='https://t.me/Hen_nime'>Click here</a>\n∆ Twitter ➤ <a href='https://twitter.com/Ahegao_Maxxx?s=09'>Click here</a>\n\nDon't forget to share (っ'-')╮=͟͟͞͞💌"
+            chat_id=client.db_channel.id, caption="∆ Asupan Doodstream ➤ <a href='https://t.me/bokep_memek_jilbab_hijab_viral'>Click here</a>\n∆ Asupan telegram ➤ <a href='https://t.me/sukjep69'>Click here</a>\n∆ Twitter Asupan ➤ <a href='https://twitter.com/sukjep69?s=09'>Click here</a>\n\nDon't forget to share (っ'-')╮=͟͟͞͞💌"
         )
     except Exception as e:
         LOGGER(__name__).warning(e)

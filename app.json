@@ -37,6 +37,14 @@
       "description": "Untuk Mencegah pengguna bot untuk mendownload/memforward/mengscreenshot konten yang dikirim di bot [ Bila ingin diaktifkan ubah ke True ]",
       "value": "True"
     },
+    "HEROKU_APP_NAME": {
+      "description": "Nama Aplikasi Heroku",
+      "value": ""
+    },
+    "HEROKU_API_KEY": {
+      "description": "Apikey Heroku",
+      "value": ""
+    },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
       "value": "0"
